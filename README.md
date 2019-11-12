@@ -11,3 +11,4 @@
 
 # bitcoin
 [bitcoin开发文档](https://bitcoin.org/en/developer-documentation)  
+[比特币开发者指南](https://github.com/GammaGao/bitcoinwhitepaper)  
